@@ -13,4 +13,4 @@
 - gem 2.5.2
 - jekyll 3.6.2
 
-See [Gemfile.lock]
+See [Gemfile.lock](https://github.com/PoliInfo/PoliInfo.github.io/blob/master/Gemfile.lock)
