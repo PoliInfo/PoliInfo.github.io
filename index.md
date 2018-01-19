@@ -5,13 +5,14 @@ layout: default
 ---
 # [](#whats-new)What's New
 
+
 * Released the website to the public, Dec. 21, 2017
 
 See [update history](https://github.com/PoliInfo/PoliInfo.github.io/commits/master)
 
 # [](#overview)Overview
 
-TBA
+TBA ...
 
 # [](#task)Task
 
