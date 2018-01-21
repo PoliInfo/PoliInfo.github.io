@@ -21,7 +21,8 @@ QA using Japanese regional assembly minutes has the following challenges to cons
 3. Mental spaces for other assemblymen,
 4. Contexts, including reasons,
 5. Several topics in a speech,
-6. Colloquial Japanese including dialect and slang.
+6. Colloquial Japanese including dialect and slang.  
+
 Although problems 1, 4, and 5 were included in the essay question task of QA Lab-3, they remain open. Based on
 technological know-how determined thus far, further technologies are expected.
 In addition to QA technologies, this task will contribute to the development of a semantic representation, context
