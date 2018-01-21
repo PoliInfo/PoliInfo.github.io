@@ -12,7 +12,20 @@ See [update history](https://github.com/PoliInfo/PoliInfo.github.io/commits/mast
 
 # [](#overview)Overview
 
-TBA ...
+We propose a fourth QA Lab (Question Answering Lab for Politics Minutes) task at NTCIR 14, which is aimed at complex real-world question answering (QA) technologies, to extract structured data on the opinions of assemblymen, and the reasons and conditions for such opinions, from Japanese regional assembly minutes.
+We provide the previously constructed Japanese Regional Assembly Minutes Corpus as the training and test data, and investigate appropriate evaluation metrics and methodologies for the structured data as a joint effort of the participants.
+
+QA using Japanese regional assembly minutes has the following challenges to consider:
+1. Comprehensible summary of a topic,
+2. Beliefs and attitudes of assemblymen,
+3. Mental spaces for other assemblymen,
+4. Contexts, including reasons,
+5. Several topics in a speech,
+6. Colloquial Japanese including dialect and slang.
+Although problems 1, 4, and 5 were included in the essay question task of QA Lab-3, they remain open. Based on
+technological know-how determined thus far, further technologies are expected.
+In addition to QA technologies, this task will contribute to the development of a semantic representation, context
+understanding, information credibility, automated summarization, and dialog systems.
 
 # [](#task)Task
 
