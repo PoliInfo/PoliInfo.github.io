@@ -31,14 +31,14 @@ understanding, information credibility, automated summarization, and dialog syst
 Extraction task and Summarization task  
 
 
-  ## Extraction Task
+  ### Extraction Task
 
 * Input:  A pair of a summary and the corresponding transcript
 
 * Output:  
 
 
-  ## Summarization Task
+  ### Summarization Task
 
 * Input: A Sentence Sequence in Transcript  
 ex.  
