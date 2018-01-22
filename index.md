@@ -28,6 +28,8 @@ understanding, information credibility, automated summarization, and dialog syst
 
 # [](#task)Task
 
+Extraction task and Summarization task
+
   ## Extraction Task
 
 * Input:  A pair of a summary and the corresponding transcript
