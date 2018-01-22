@@ -28,7 +28,8 @@ understanding, information credibility, automated summarization, and dialog syst
 
 # [](#task)Task
 
-Extraction task and Summarization task
+Extraction task and Summarization task  
+
 
   ## Extraction Task
 
