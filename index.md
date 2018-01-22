@@ -89,7 +89,17 @@ TBA
 
 # [](#important-dates) Important Dates
 
-TBA
+- Feb 20, 2018:  Kickoff meeting in NII (room 1901, 1902)  
+- Mar 14, 2018:  1st round table meeting at Okayama Convention Center in NLP 2018  
+- Mar 15, 2018: Task Registration Due  
+- Jun 2018: Dataset Release  
+- Jul 2018: Dry Run  
+- Nov 2018: Formal Run  
+- Dec 20, 2018: Evaluation Result Release  
+- Dec 20, 2018: Task overview paper release (draft)  
+- Feb 1, 2019:  Submission due of participant papers  
+- Mar 1, 2019:  Acceptance notification  
+- Jun 2019: NTCIR-14 Conference & EVIA 2019 in NII, Tokyo  
 
 # [](#organizers) Organizers
 
