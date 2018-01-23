@@ -28,8 +28,8 @@ understanding, information credibility, automated summarization, and dialog syst
 
 # [](#task)Task
 
-Extraction task and Summarization task  
-
+Extraction taskとSummarization taskの２通りのタスクを行う。
+Extraction Taskでは、ある議員の「議会会議録中の発言」と「その発言の要約」が与えられる
 
   ### Extraction Task
 
