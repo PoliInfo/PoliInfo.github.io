@@ -30,20 +30,25 @@ understanding, information credibility, automated summarization, and dialog syst
 
 Extraction taskとSummarization taskの２通りのタスクを行う。
 
+
   ### Extraction Task
 
 Extraction Taskでは、ある議員の議会会議録中の「発言」とその発言の「要約」の組が与えられる。
-参加者は、要約に書かれた内容（意見）に関連する「根拠」や「条件」に該当する記述を発言から抽出する。
+参加者は、要約に書かれた内容（意見）に関連する「根拠」や「条件」などに対応する記述を発言から抽出する。
 本タスクの特徴は、抽出対象に「固有表現などよりも長い文字列」が含まれることである。
 
-* Input:  A pair of a summary and the corresponding transcript
+* Input:  議会会議録中の「発言」とその発言の「要約」
 
-* Output:  
+* Output:  要約中の意見の「根拠」や「条件」に対応する記述
 
 
   ### Summarization Task
 
+Summarization Taskでは、ある議員の議会会議録中の「発言」と要約の「制限文字数」が与えられる。
+参加者は、発言中の「意見」、「根拠」、「条件」などが一読して分かるような要約を作成する。
+
 * Input: A Sentence Sequence in Transcript  
+
 ex.  
 ---
 260618_304,初めに、認知症対策について質問いたします。  
