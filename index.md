@@ -109,8 +109,8 @@ TBA
 - Noriko Kando, National Institute of Informatics, Japan and SOKENDAI, Japan
 - Madoka Ishioroshi, National Institute of Informatics, Japan
 - Teruko Mitamura, Carnegie Mellon University, USA
-- Hideyuki Shibuki, Yokohama National University, Japan
 - Yasutomo, Kimura, Otaru University of Commerce, Japan and RIKEN, Japan
+- Hideyuki Shibuki, Yokohama National University, Japan
 - Kotaro Sakamoto, Yokohama National University, Japan and National Institute of Informatics, Japan
 
 ## Advisers
