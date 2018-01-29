@@ -13,6 +13,10 @@ See [update history](https://github.com/PoliInfo/PoliInfo.github.io/commits/mast
 # [](#overview)Overview
 
 The goal of the QALab-PoliInfo(Question Answering Lab for Political Information) task at NTCIR 14 is aimed at complex real-world question answering (QA) technologies, to extract structured data on the opinions of assemblymen, and the reasons and conditions for such opinions, from Japanese regional assembly minutes.
+
+
+
+
 We provide the Japanese Regional Assembly Minutes Corpus as the training and test data, and investigate appropriate evaluation metrics and methodologies for the structured data as a joint effort of the participants.
 
 QA using Japanese regional assembly minutes has the following challenges to consider:
@@ -26,6 +30,21 @@ QA using Japanese regional assembly minutes has the following challenges to cons
 In addition to QA technologies, this task will contribute to the development of a semantic representation, context
 understanding, information credibility, automated summarization, and dialog systems.
 
+
+
+We reaffirm the importance of fact checking owing to the negative impact of fake news in recent years. For
+example, the International Fact-Checking Network of the Poynter Institute established that April 2 would be considered
+as [International Fact-Checking Day](http://factcheckingday.com/) from this year. In addition, fact-checking is difficult for
+general Web search engines to deal with because of the ‘filter bubble’ developed by Eli Pariser, which keeps users away
+from information that disagrees with their viewpoints. For fact checking, we should confirm the primary sources such as
+the assembly minutes. The description of Japanese assembly minutes is a transcript of a speech, which is very long (see
+Fig. 3). Therefore, it is difficult to understand the contents, including the opinions of the assemblymen at a glance. New
+information access technologies to support user understanding are expected. Fig.3 shows a speech given by an
+assemblyman that is a request to the governor. Although the speech includes the speaker’s opinion regarding the opening
+of a casino in Tokyo, the opinion is obscure. If structured data, as shown in Fig. 1, can be extracted from the speech using
+technologies such as a query-biased summarization or [guided summarization](https://tac.nist.gov//2011/Summarization/Guided-Summ.2011.guidelines.html), it will be helpful to understand the
+opinion of the speaker regarding the opening of the casino, which would thus protect us from fake news.
+
 # [](#task)Task
 
 Extraction taskとSummarization taskの２通りのタスクを行う。
@@ -33,30 +52,39 @@ Extraction taskとSummarization taskの２通りのタスクを行う。
 ### Extraction Task
 
 Extraction Taskでは、ある議員の議会会議録中の「発言」とその発言の「引用」の組が与えられる。
-参加者は、要約に書かれた内容（意見）に関連する「根拠」や「条件」などに対応する記述を発言から抽出する。
+参加者は、要約に書かれた内容（意見）に関連する「根拠」、「条件」、「例示」などに対応する記述を発言から抽出する。
 本タスクの特徴は、抽出対象に「固有表現などよりも長い文字列」が含まれることである。
 
 Extraction taskは、新聞記事やマイクロブログなどにおいて「A議員は〇〇と主張した」といった二次情報（本タスクの「引用」が該当）に対して、発言したとされる一次情報（本タスクの「発言」が該当）の中から、その関連情報（文脈）を提示することを目的としている。
-引用における問題には、条件節の削除など発言の一部が欠落することにより、発言者の本来の意図とは異なった印象を読者に与えてしまう場合がある。
-そのような問題を解決するために、引用された発言の文脈（根拠や条件など）を補完して提示することが必要であり、本タスクはそれに該当する。
+引用における問題には、発言の一部が欠落することにより、発言者の本来の意図とは異なった印象を読者に与えてしまう場合がある。
+例えば、「*Xのためには*〇〇をすべきだ」、「*Yだとしたら*〇〇をすべきだ」、「*Zなどの*〇〇をすべきだ」といった発言に対して、単に「〇〇をすべきだ」と引用された場合、読者に「（いかなる状況においても）〇〇すべきだ」といった誤解を与えかねない。
+そのような問題を解決するために、引用された発言の文脈（根拠、条件、例示など）を補完して提示することが必要であり、本タスクはそれに該当する。
+また、発言者の意図を正確に伝えるための文脈とは何かについても本タスクで議論したい。
 
 * Input:  議会会議録中の「発言」とその発言の「引用」
 
-* Output:  要約中の意見の「根拠」や「条件」に対応する記述
+* Output:  要約中の意見の「根拠」、「条件」、「例示」などに対応する記述
 
 ### Summarization Task
 
 Summarization Taskでは、ある議員の議会会議録中の「発言」と要約の「制限文字数」が与えられる。
-参加者は、発言中の「意見」、「根拠」、「条件」などが一読して分かるような要約を作成する。
+参加者は、発言中の「意見」、「根拠」、「条件」、「例示」などが一読して分かるような要約を作成する。
 本タスクの特徴は、「発話者の意図を歪めない引用（要約）」を目的としていることである。
 
-例えば、「*Xを実現するためには*Aをすべきだ」
+一般的な要約では従属節などが削除される傾向にあるが、例えば、「*Xのためには*〇〇をすべきだ」、「*Yだとしたら*〇〇をすべきだ」、「*Zなどの*〇〇をすべきだ」といった発言の要約において、*X*や*Y*や*Z*の記述を削除することは「（いかなる状況においても）〇〇すべきだ」といった誤解を読者に与えかねない。
+本タスクでは、正しい理解に必要な文脈が欠落しない要約とは
+
+
+従って、Summarization Taskは、「理解に必要な文脈が欠落しないように」引用（要約）を提示。
 
 Extraction Taskが、引用された発言の理解を「欠落した文脈を補完することで」支援するのに対し、Summarization Taskは、「理解に必要な文脈が欠落しないように」引用（要約）を提示することで支援する。
 
+
+
+
 * Input: 議会会議録中の「発言」と要約の「制限字数」
 
-* Output: 意見、根拠、条件などが明確な「要約」
+* Output: 意見、根拠、条件、例示など（発話者の意図）が明瞭に伝わる「要約」
 
 #### 発言の例
 260618_304,初めに、認知症対策について質問いたします。  
@@ -96,7 +124,26 @@ Extraction Taskが、引用された発言の理解を「欠落した文脈を�
 
 # [](#collection-and-tools) Collection and Tools
 
-TBA
+**Japanese Regional Assembly Minutes Corpus:**  
+
+
+
+
+
+Table 1: Data fields in Japanese Regional Assembly
+
+Minutes Corpus
+Identifier Prefecture name
+Volume Volume
+Year Month
+Day Period
+Title Speaker expression
+Speaker ID Speaker name
+Speaker position Speech
+URL HTML file
+
+
+
 
 # [](#important-dates) Important Dates
 
