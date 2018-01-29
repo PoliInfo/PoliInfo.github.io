@@ -108,7 +108,8 @@ Summarization Taskでは、ある議員の議会会議録中の「発言」と�
 
 **Japanese Regional Assembly Minutes Corpus:**  
 The corpus has CSV format data from 47 prefectural assemblies for 4 years (1.7GB), the fields of
-which are shown below.
+which are shown below.  
+We will provide the subset data (Tokyo).
 
 |:----------------|:----------------|
 | Identifier | Prefecture name |
