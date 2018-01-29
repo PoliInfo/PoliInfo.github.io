@@ -136,12 +136,6 @@ We will provide the subset data in the JSON format.
         "GikaiDayoriURL": "http://www.gikai.metro.tokyo.jp/newsletter/293/03-1.html"
     }
 
-
-
-
-
-
-
 # [](#important-dates) Important Dates
 
 - Feb 20, 2018:  Kickoff meeting in NII (room 1901, 1902)  
