@@ -114,23 +114,19 @@ Extraction Taskが、引用された発言の理解を「欠落した文脈を�
 
 # [](#collection-and-tools) Collection and Tools
 
-**Japanese Regional Assembly Minutes Corpus:**  
+**Japanese Regional Assembly Minutes Corpus:**  
+The corpus has CSV format data from 47 prefectural assemblies for 4 years (1.7GB), the fields of
+which are shown below.
 
-
-
-
-
-Table 1: Data fields in Japanese Regional Assembly
-
-Minutes Corpus
-Identifier Prefecture name
-Volume Volume
-Year Month
-Day Period
-Title Speaker expression
-Speaker ID Speaker name
-Speaker position Speech
-URL HTML file
+|:----------------|:----------------|
+| Identifier | Prefecture name |
+| Volume | Volume |
+| Year | Month |
+| Day | Period |
+| Title | Speaker expression |
+| Speaker ID | Speaker name |
+| Speaker position | Speech |
+| URL | HTML file |
 
 
 
