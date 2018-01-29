@@ -18,7 +18,7 @@ We reaffirm the importance of fact checking owing to the negative impact of fake
 For example, the International Fact-Checking Network of the Poynter Institute established that April 2 would be considered as [International Fact-Checking Day](http://factcheckingday.com/) from this year.
 In addition, fact-checking is difficult for general Web search engines to deal with because of the ‘filter bubble’ developed by Eli Pariser, which keeps users away from information that disagrees with their viewpoints.
 For fact checking, we should confirm the primary sources such as the assembly minutes.
-The description of Japanese assembly minutes is a transcript of a speech, which is very long ([example](#transcript)). Therefore, it is difficult to understand the contents, including the opinions of the assemblymen at a glance. New
+The description of Japanese assembly minutes is a transcript of a speech, which is very long (see the [example](#transcript)). Therefore, it is difficult to understand the contents, including the opinions of the assemblymen at a glance. New
 information access technologies to support user understanding are expected. Fig.3 shows a speech given by an
 assemblyman that is a request to the governor. Although the speech includes the speaker’s opinion regarding the opening
 of a casino in Tokyo, the opinion is obscure. If structured data, as shown in Fig. 1, can be extracted from the speech using
@@ -81,8 +81,8 @@ Extraction Taskが、引用された発言の理解を「欠落した文脈を�
 
 * Output: 意見、根拠、条件、例示など（発話者の意図）が明瞭に伝わる「要約」
 
-<a name="#transcript"></a>
-#### 発言の例
+
+#### <a name="#transcript"> 発言の例
 260618_304,初めに、認知症対策について質問いたします。  
 260618_305,都の最新の推計によれば、何らかの認知症状がある高齢者は、現在都内で約三十八万人おられ、十一年後の二〇二五年には約六十万人、実に高齢者人口の約二割まで急増するとされています。  
 260618_306,認知症は、脳の器質障害により、社会生活の基本となる認知機能が低下する疾患であり、患者本人はもとより、家族や地域社会にも広く影響を及ぼす、超高齢時代特有のすぐれて今日的な疾患といえます。  
