@@ -122,7 +122,7 @@ which are shown below.
 
 We will provide the subset data in the JSON format.
 
-```javascript
+```json
     "L266-283": {
         "Prefecture": "東京都",
         "Date": "23-6-23",
