@@ -36,10 +36,10 @@ understanding, information credibility, automated summarization, and dialog syst
 
 # [](#task)Task
 
-Extraction taskとSummarization taskの２通りのタスクを行う。
-
 At this time, only Japanese task will be conducted.
 However, if English data and organizers are found, English task will also be conducted.
+
+Extraction taskとSummarization taskの２通りのタスクを行う。
 
 ### Extraction Task
 
