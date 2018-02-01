@@ -38,6 +38,9 @@ understanding, information credibility, automated summarization, and dialog syst
 
 Extraction taskとSummarization taskの２通りのタスクを行う。
 
+At this time, only Japanese task will be conducted.
+However, if English data and organizers are found, English task will also be conducted.
+
 ### Extraction Task
 
 Extraction Taskでは、ある議員の議会会議録中の「発言」とその発言の「引用」の組が与えられる。
@@ -140,10 +143,11 @@ We will provide the subset data in the JSON format.
 
 # [](#important-dates) Important Dates
 
-- Feb 20, 2018:  Kickoff meeting in NII (room 1901, 1902)  
-- Mar 14, 2018:  1st round table meeting at Okayama Convention Center in NLP 2018  
-- Mar 15, 2018: Task Registration Due  
+- Feb 20, 2018: QALab-PoliInfo Kickoff meeting in NII (room 1901, 1902)  
+- Mar 14, 2018: 1st round table meeting at Okayama Convention Center in NLP 2018  
+- Mar 20, 2018: NTCIR-14 Kickoff event in NII
 - Jun 2018: Dataset Release  
+- Jul 2018: Task Registration Due  
 - Jul 2018: Dry Run  
 - Nov 2018: Formal Run  
 - Dec 20, 2018: Evaluation Result Release  
