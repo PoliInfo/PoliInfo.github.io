@@ -41,6 +41,7 @@ However, if English data and the organizers are found, English task will also be
 
 Extraction taskとSummarization taskの２通りのタスクを行う。
 
+
 ### Extraction Task
 
 Extraction Taskでは、ある議員の議会会議録中の「発言」とその発言の「引用」の組が与えられる。
@@ -56,6 +57,15 @@ Extraction taskは、新聞記事やマイクロブログなどにおいて「A�
 * Input:  議会会議録中の「発言」とその発言の「引用」
 
 * Output:  要約中の意見の「根拠」、「条件」、「例示」などに対応する記述
+
+<!-- 
+
+* Input:  議会会議録中の「発言」、その発言の「引用」、抽出すべき「文数」
+
+* Output:  発言中の、引用における発話者の意図などを正確に理解するのに必要な記述（根拠、条件、例示など）を含む「文集合」
+
+-->
+
 
 ### Summarization Task
 
