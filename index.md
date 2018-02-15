@@ -62,7 +62,7 @@ Extraction taskは、新聞記事やマイクロブログなどにおいて「A�
 
 本タスクの特徴は、抽出対象に「固有表現などよりも長い文字列」が含まれることである。
 
-Extraction taskは、新聞記事やマイクロブログなどにおいて「A議員は〇〇と主張した」といった二次情報（本タスクの「引用」が該当）に対して、発言したとされる一次情報（本タスクの「発言」が該当）の中から、その関連情報（文脈）を提示することを目的としている。
+Passage  taskは、新聞記事やマイクロブログなどにおいて「A議員は〇〇と主張した」といった二次情報（本タスクの「引用」が該当）に対して、発言したとされる一次情報（本タスクの「発言」が該当）の中から、その関連情報（文脈）を提示することを目的としている。
 引用における問題には、発言の一部が欠落することにより、発言者の本来の意図とは異なった印象を読者に与えてしまう場合がある。
 例えば、「*Xのためには*〇〇をすべきだ」、「*Yだとしたら*〇〇をすべきだ」、「*Zなどの*〇〇をすべきだ」といった発言に対して、単に「〇〇をすべきだ」と引用された場合、読者に「（いかなる状況においても）〇〇すべきだ」といった誤解を与えかねない。
 そのような問題を解決するために、引用された発言の文脈（根拠、条件、例示など）を補完して提示することが必要であり、本タスクはそれに該当する。
@@ -173,10 +173,10 @@ We will provide the subset data in the JSON format.
 - Jul 2018: Task Registration Due  
 - Jul 2018: Dry Run  
 - Nov 2018: Formal Run  
-- Dec 20, 2018: Evaluation Result Release  
-- Dec 20, 2018: Task overview paper release (draft)  
-- Feb 1, 2019:  Submission due of participant papers  
-- Mar 1, 2019:  Acceptance notification  
+- Feb 1, 2019: Evaluation Result Release  
+- Feb 1, 2019: Task overview paper release (draft)  
+- Mar 15, 2019:  Submission due of participant papers  
+- May 1, 2019 Camera-ready participant paper due
 - Jun 2019: NTCIR-14 Conference & EVIA 2019 in NII, Tokyo  
 
 # [](#organizers) Organizers
