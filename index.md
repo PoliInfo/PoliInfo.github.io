@@ -12,7 +12,7 @@ See [update history](https://github.com/PoliInfo/PoliInfo.github.io/commits/mast
 
 # [](#overview)Overview
 
-The goal of the QALab-PoliInfo(Question Answering Lab for Political Information) task at NTCIR 14 is aimed at complex real-world question answering (QA) technologies, to extract structured data on the opinions of assemblymen, and the reasons and conditions for such opinions, from Japanese regional assembly minutes.
+The goal of the QA Lab-PoliInfo (Question Answering Lab for Political Information) task at NTCIR 14 is aimed at complex real-world question answering (QA) technologies, to show summaries on the opinions of assemblymen, and the reasons and conditions for such opinions, from Japanese regional assembly minutes. 
 
 We reaffirm the importance of fact checking owing to the negative impact of fake news in recent years.
 For example, the International Fact-Checking Network of the Poynter Institute established that April 2 would be considered as [International Fact-Checking Day](http://factcheckingday.com/) from 2017.
@@ -133,8 +133,7 @@ Summarization Taskでは、ある議員の議会会議録中の「発言」と�
 # [](#collection-and-tools) Collection and Tools
 
 **Japanese Regional Assembly Minutes Corpus:**  
-The corpus has CSV format data from 47 prefectural assemblies for 4 years (1.7GB), the fields of
-which are shown below.  
+The corpus has JSON format data of the Tokyo metropolitan assembly for 4 years, the fields of which are shown below.  
 
 |:----------------|:----------------|
 | Identifier | Prefecture name |
