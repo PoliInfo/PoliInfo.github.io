@@ -197,6 +197,9 @@ We will provide the subset data in the JSON format.
 * [q...@nii.ac.jp](https://www.google.com/recaptcha/mailhide/d?k=01O9zbkTiGrK94vkzok6UTlA==&c=O9PnuKWAEXZJ-9F2iQ1s3NCEpYO4jMMUhYsmRhdCk0c=) 
 
 # Misc
+## Kickoff Meeting
+スライド(/NTCIR-14-QALab-PoliInfoKickoff.pdf)	
+
 ## Logo
 <img src="qalab.png" alt="QA Lab Logo" title="QA Lab Logo" style="width: 200px;"/>
 
