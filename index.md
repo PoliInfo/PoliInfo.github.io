@@ -166,7 +166,7 @@ We will provide the subset data in the JSON format.
 # [](#important-dates) Important Dates
 
 - Feb 20, 2018: QALab-PoliInfo Kickoff meeting in NII (room 1901, 1902)  
-- Mar 14, 2018: 1st round table meeting at Okayama Convention Center in NLP 2018  
+- Mar 13, 2018: 1st round table meeting at Okayama Convention Center in NLP 2018  
 - Mar 20, 2018: NTCIR-14 Kickoff event in NII
 - Jun 2018: Dataset Release  
 - Jul 2018: Task Registration Due  
