@@ -184,6 +184,8 @@ We will provide the subset data in the JSON format.
 
 ## Advisers
 - Tatsunori Mori, Yokohama National University, Japan
+- Harumichi Yuasa, Institute of Information Security, Japan
+
 
 # [](#publications) Publications
 
