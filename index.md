@@ -178,14 +178,15 @@ We will provide the subset data in the JSON format.
 - Noriko Kando, National Institute of Informatics, Japan and SOKENDAI, Japan
 - Madoka Ishioroshi, National Institute of Informatics, Japan
 - Teruko Mitamura, Carnegie Mellon University, USA
-- Yasutomo, Kimura, Otaru University of Commerce, Japan and RIKEN, Japan
+- Yasutomo Kimura, Otaru University of Commerce, Japan and RIKEN, Japan
 - Hideyuki Shibuki, Yokohama National University, Japan
 - Kotaro Sakamoto, Yokohama National University, Japan and National Institute of Informatics, Japan
 
 ## Advisers
 - Tatsunori Mori, Yokohama National University, Japan
 - Harumichi Yuasa, Institute of Information Security, Japan
-
+- Satoshi Sekine, RIKEN, Japan
+- Kentaro Inui, Tohoku University, Japan and RIKEN, Japan
 
 # [](#publications) Publications
 
