@@ -223,8 +223,18 @@ We will provide the subset data in the JSON format.
 - [English](http://research.nii.ac.jp/ntcir/ntcir-14/index.html)
 - [Japanese](http://research.nii.ac.jp/ntcir/ntcir-14/index-ja.html)
 
-## 
+## 関連リンク集
 
 - [ACL 2016 Tutorial on NLP Approach to Computational Argumentation](http://acl2016tutorial.arg.tech/index.php/tutorial-materials/)
 - [IJCAI 2016 Tutorial 19 : Argument and Cognition](http://cognition.ouc.ac.cy/argument/)
+- [Argument Mining](http://www.arg-tech.org/index.php/projects/argument-mining/)
+- [Argument Mining 1st](http://www.arg-tech.org/index.php/sicsa-workshop-on-argument-mining-2014/)
+- Argument Mining 2nd,  NAACL HLT 2015](https://www.cs.cornell.edu/home/cardie/naacl-2nd-arg-mining/)
+http://www.aclweb.org/anthology/W15-05
+- [Argument Mining 3rd , ACL2016](http://argmining2016.arg.tech/)
+http://www.aclweb.org/anthology/W/W16/W16-28.pdf
+- [Argument Mining 4th, EMNLP2017](http://aclweb.org/anthology/W17-5100)
+http://aclweb.org/anthology/W/W17/#5100
+
+
 
