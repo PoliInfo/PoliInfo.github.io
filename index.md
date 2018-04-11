@@ -125,14 +125,14 @@ Web上の意見を俯瞰する取り組みとしてWISDOMや言論マップな�
 体制整備は都政の最重要課題の一つ。知事の更なるリーダーシップを。  
 
 #### 用語の定義
-賛成(support): 根拠があった上で、賛成の立場を表明しているもの。
+- 賛成(support): 根拠があった上で、賛成の立場を表明しているもの。
 * 例）豊洲は、新市場移転により千客万来施設ができるなど、今後、観光客の集客が大いに期待できるエリアであります。
-反対(against): 根拠があった上で、反対の立場を表明しているもの。
+- 反対(against): 根拠があった上で、反対の立場を表明しているもの。
 * 例）しかし、残念ながら、豊洲は市場移転用地として計画が進んでおり、そのため土壌の入れかえ工事が必要で、五百八十六億円もコストを要します。
-その他(other): 上記、賛成/反対以外のもの（根拠がないものや、賛成/反対の立場を表明していないもの）。
+- その他(other): 上記、賛成/反対以外のもの（根拠がないものや、賛成/反対の立場を表明していないもの）。
 * 例）新銀行東京や築地市場の移転問題は非の立場です。　→根拠がないのでNG
 * 例）このような中、東京都はこの八月三十日に、豊洲の土壌汚染対策工事として、ゼネコン系の三つのＪＶと合計約五百四十二億円の契約を交わしています。　→賛成/反対の立場を表明していないのでNG
-根拠(evidence): 第三者が真偽を端的に確認(fact-checking)できるもの。
+- 根拠(evidence): 第三者が真偽を端的に確認(fact-checking)できるもの。
 * 例）五百八十六億円もコストを要します　→真偽を端的に確認できるのでOK
 * 例）経営支援策を講じてまいります　→真偽を端的に確認できないのでNG
 
@@ -229,7 +229,7 @@ We will provide the subset data in the JSON format.
 - [IJCAI 2016 Tutorial 19 : Argument and Cognition](http://cognition.ouc.ac.cy/argument/)
 - [Argument Mining](http://www.arg-tech.org/index.php/projects/argument-mining/)
 - [Argument Mining 1st](http://www.arg-tech.org/index.php/sicsa-workshop-on-argument-mining-2014/)
-- Argument Mining 2nd,  NAACL HLT 2015](https://www.cs.cornell.edu/home/cardie/naacl-2nd-arg-mining/)
+- [Argument Mining 2nd,  NAACL HLT 2015](https://www.cs.cornell.edu/home/cardie/naacl-2nd-arg-mining/)
 http://www.aclweb.org/anthology/W15-05
 - [Argument Mining 3rd , ACL2016](http://argmining2016.arg.tech/)
 http://www.aclweb.org/anthology/W/W16/W16-28.pdf
