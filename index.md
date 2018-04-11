@@ -211,3 +211,9 @@ We will provide the subset data in the JSON format.
 
 - [English](http://research.nii.ac.jp/ntcir/ntcir-14/index.html)
 - [Japanese](http://research.nii.ac.jp/ntcir/ntcir-14/index-ja.html)
+
+## 
+
+- [ACL 2016 Tutorial on NLP Approach to Computational Argumentation](http://acl2016tutorial.arg.tech/index.php/tutorial-materials/)
+- [IJCAI 2016 Tutorial 19 : Argument and Cognition](http://cognition.ouc.ac.cy/argument/)
+
