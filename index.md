@@ -138,7 +138,7 @@ Web上の意見を俯瞰する取り組みとしてWISDOMや言論マップな�
 
 |:----------------|:----------------|:----------------|:----------------|
 |  | positive | negative | neutral |
-| with evidence | support | against | other |
+| evidence | support | against | other |
 | no evidence | other | other | other |
 
 # [](#collection-and-tools) Collection and Tools
