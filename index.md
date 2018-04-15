@@ -141,8 +141,8 @@ Web上の意見を俯瞰する取り組みとしてWISDOMや言論マップな�
 
 |:----------------|:----------------|:----------------|:----------------|
 |  | positive | negative | neutral |
-| evidence | support | against | other |
-| no evidence | other | other | other |
+| with evidence | support | against | other |
+| without evidence | other | other | other |
 
 # [](#collection-and-tools) Collection and Tools
 
