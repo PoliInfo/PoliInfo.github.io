@@ -224,6 +224,7 @@ We will provide the subset data in the JSON format.
 # Misc
 ## Slides
 - [Kickoff Meeting (Feb 20, 2018)](/NTCIR-14-QALab-PoliInfoKickoff.pdf)	
+- [1st Round Table Meeting (Apr 19, 2018)](/NTCIR-14-QALab-PoliInfo-1stRoundTableMTG.pdf)
 
 ## Logo
 <img src="qalab.png" alt="QA Lab Logo" title="QA Lab Logo" style="width: 200px;"/>
