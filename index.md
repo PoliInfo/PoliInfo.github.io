@@ -185,7 +185,7 @@ We will provide the subset data in the JSON format.
     }
 ```
 
-# [](./QA.md) Q&A
+# [Q&A](/QA.md) 
 
 # [](#important-dates) Important Dates
 
