@@ -226,7 +226,16 @@ We will provide the subset data in the JSON format.
 - [Kickoff Meeting (Feb 20, 2018)](/NTCIR-14-QALab-PoliInfoKickoff.pdf)	
 - [1st Round Table Meeting (Apr 19, 2018)](/NTCIR-14-QALab-PoliInfo-1stRoundTableMTG.pdf)
 
-## [Q&A](/QA.htm) 
+## [](#qa) Q&A
+
+- QALab-PoliInfoタスクはフェイクニュースとどう関連しているのか？
+
+まず、我々は以下の理由から、システムがフェイクニュースか否かの判断を提示することではなく、ユーザが判断できるような情報（根拠）を提示することを重視したシステムを目指している。
+第一に、フェイクニュースか否かを100%の精度で判断するシステムは困難であること、第二に、システムの判断を鵜呑みにすることはメディアの情報を鵜呑みにすることと違わないからである。 
+したがって、システムが何らかの判断をするとしても、その判断をするに至った情報をユーザに分かりやすく提示する必要がある。 
+本タスクは、そのための要素技術と位置付けられる。 
+Segmentation taskとSummarization taskは、一次情報におけるニュースの記述を特定し、ユーザに分かりやすく提示するため技術に相当する。 
+また、根拠を伴わない意見は議論にならず、Classification taskは、議論に値する意見を提示するための技術に相当する。
 
 ## Logo
 <img src="qalab.png" alt="QA Lab Logo" title="QA Lab Logo" style="width: 200px;"/>
