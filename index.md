@@ -185,7 +185,7 @@ We will provide the subset data in the JSON format.
     }
 ```
 
-# [](#qa) Q&A
+# [](./QA.md) Q&A
 
 ## QALab-PoliInfoタスクはフェイクニュースとどう関連しているのか？
 
