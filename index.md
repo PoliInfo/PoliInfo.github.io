@@ -185,8 +185,6 @@ We will provide the subset data in the JSON format.
     }
 ```
 
-# [Q&A](/QA.md) 
-
 # [](#important-dates) Important Dates
 
 - Feb 20, 2018: QALab-PoliInfo Kickoff meeting in NII (room 1901, 1902)  
@@ -227,6 +225,8 @@ We will provide the subset data in the JSON format.
 ## Slides
 - [Kickoff Meeting (Feb 20, 2018)](/NTCIR-14-QALab-PoliInfoKickoff.pdf)	
 - [1st Round Table Meeting (Apr 19, 2018)](/NTCIR-14-QALab-PoliInfo-1stRoundTableMTG.pdf)
+
+## [Q&A](/QA.htm) 
 
 ## Logo
 <img src="qalab.png" alt="QA Lab Logo" title="QA Lab Logo" style="width: 200px;"/>
