@@ -201,6 +201,21 @@ We will provide the subset data in the JSON format.
 - May 1, 2019 Camera-ready participant paper due
 - Jun 2019: NTCIR-14 Conference & EVIA 2019 in NII, Tokyo  
 
+# [](#howto) How to Participate to NTCIR-14 QALab-PoliInfo Task
+
+NTCIR-14 QALab-PoliInfoタスクに参加をお考えの方は，まず [NTCIR-14タスク参加の手引き](http://research.nii.ac.jp/ntcir/ntcir-14/howto-ja.html)からリンクされている，
+「[NTCIRの目的](http://research.nii.ac.jp/ntcir/ntcir-14/aims-ja.html)」，「[NTCIR-14タスク参加者が行うこと](http://research.nii.ac.jp/ntcir/ntcir-14/obligations-ja.html)」をご覧ください．
+
+その後，以下の手続きを行ってください：  
+1.　[NTCIR-14オンラインタスク参加申し込み](http://ntcir.nii.ac.jp/NTCIR14Regist/)を行う．  
+2.　[テストコレクションに関する覚書](http://research.nii.ac.jp/ntcir/ntcir-14/agrmnt-ja.html)を提出する．  
+一覧からQALab-PoliInfoの覚書ををダウンロードし，署名・捺印をした原本2部をNTCIR事務局までご郵送ください．
+
+参加申し込み及び覚書の手続き終了後に，データに関するご案内をお送りします．
+
+詳細は以下のページをご参照ください． 
+* [NTCIR-14タスク参加の手引き](http://research.nii.ac.jp/ntcir/ntcir-14/howto-ja.html)
+
 # [](#organizers) Organizers
 
 - Noriko Kando, National Institute of Informatics, Japan and SOKENDAI, Japan
