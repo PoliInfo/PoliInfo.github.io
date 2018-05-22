@@ -7,8 +7,9 @@ NTCIR-14 QALab-PoliInfo 第2回説明会を5月31日（木）に開催いたし�
 前回、ご参加いただいた方々も、是非ご参加いただければと思います。
 
 --------------------------------------------------------------
+# NTCIR-14 QALab-PoliInfo 第2回説明会
 
-<h1 id=""> NTCIR-14 QALab-PoliInfo 第2回説明会 </h1>
+<span style="font-size:xx-large;"> NTCIR-14 QALab-PoliInfo 第2回説明会 </span>
 
 日時：5月31日（木）　14:30-18:00<br>
 場所：国立情報学研究所(学術総合センター)　12階　1208会議室
