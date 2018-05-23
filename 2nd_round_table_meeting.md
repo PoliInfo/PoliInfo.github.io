@@ -32,11 +32,11 @@ NTCIR-14 QALab-PoliInfo 第2回説明会を5月31日（木）に開催いたし�
 
 　参加登録：会場準備の都合上、できる限り事前登録をお願いします。<br>
 　&emsp;&emsp;&emsp;&emsp;&emsp;（当日の飛び入り参加も大歓迎です）　<br>
-　参加登録：https://goo.gl/forms/DapcCbbOY1Cb0mO22 <br>
+　参加登録：[https://goo.gl/forms/DapcCbbOY1Cb0mO22](https://goo.gl/forms/DapcCbbOY1Cb0mO22) <br>
 　なお、懇親会にも参加する方は、5月24日(木)までに登録をお願いします。<br>
 　^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-　ウェブサイト:　https://poliinfo.github.io/<br>
+　ウェブサイト:　[https://poliinfo.github.io/](https://poliinfo.github.io/)<br>
 　お問い合わせは　qalab-admin@nii.ac.jp　まで
 
 --------------------------------------------------------------
