@@ -159,16 +159,7 @@ The corpus has JSON format data of the Tokyo metropolitan assembly for 4 years, 
 
 |:----------------|:----------------|
 | ID | 識別子 (市町村コード_年月日_行数) |
-| Line | 行番号 |
-| Prefecture | 都道府県名 |
-| Volume | 回、第一回定例会 |
-| Number | 号、何日目 |
-| Year | 年 |
-| Month | 月 |
-| Day | 日 |
-| Title | 表題 |
-| Speaker | 発言者名 |
-| Utterance | 発言 |
+
 
 
 We will provide the subset data in the JSON format.
