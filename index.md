@@ -158,8 +158,7 @@ Web上の意見を賛否の観点から俯瞰する取り組みとしてWISDOM�
 The corpus has JSON format data of the Tokyo metropolitan assembly for 4 years, the fields of which are shown below.  
 
 |:----------------|:----------------|
-| ID | 識別子  |
-|  | (市町村コード_年月日_行数)  |
+| ID | 識別子 (市町村コード_年月日_行数)  |
 | Line | 行番号  |
 | Prefecture | 都道府県名  |
 | Volume | 回、第一回定例会  |
@@ -170,6 +169,7 @@ The corpus has JSON format data of the Tokyo metropolitan assembly for 4 years, 
 | Title | 表題  |
 | Speaker | 発言者名  |
 | Utterance | 発言  |
+
 
 We will provide the subset data in the JSON format.
 
