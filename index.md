@@ -191,7 +191,7 @@ We will provide the subset data in the JSON format.
 - Mar 20, 2018: NTCIR-14 Kickoff event in NII
 - Apr 19, 2018: 1st round table meeting in NII (room 1901, 1902)  
 - May 31, 2018: 2nd round table meeting in NII (room 1208) ([details](https://poliinfo.github.io/2nd_round_table_meeting))
-- Jun 2018: Dataset Release  
+- Jun 15, 2018: Dataset Release  
 - Jul 2018: Task Registration Due  
 - Jul 2018: Dry Run  
 - Nov 2018: Formal Run  
