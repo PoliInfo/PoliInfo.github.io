@@ -226,6 +226,7 @@ We will provide the subset data in the JSON format.
 
 * [sample-classification.json](https://poliinfo.github.io/sample-classification.json)
 ```json
+[
     {
         "ID": "1",
         "Topic": "築地市場の豊洲移転",
@@ -244,7 +245,7 @@ We will provide the subset data in the JSON format.
         "Utterance": "都議会民主党は、四年前、築地市場の移転について、豊洲の移転予定地から高濃度の汚染物質が検出されるなど、安全性が確認されておらず、関係者の合意も得られていないことから、強引な移転には反対とする主張をいたしました。",
         "Class": 2
     },
-
+]
 ```
 
 
