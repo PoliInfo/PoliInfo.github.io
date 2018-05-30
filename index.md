@@ -157,6 +157,25 @@ Web上の意見を賛否の観点から俯瞰する取り組みとしてWISDOM�
 **Japanese Regional Assembly Minutes Corpus:**  
 The corpus has JSON format data of the Tokyo metropolitan assembly for 4 years, the fields of which are shown below.  
 
+
+We will provide the subset data in the JSON format.
+
+* [sample-Pref13_tokyo.json](https://poliinfo.github.io/sample-Pref13_tokyo.json)
+```json
+    {
+        "ID": "130001_230617_1",
+        "Line": 1,
+        "Prefecture": "東京都",
+        "Volume": "平成23年_第２回",
+        "Number": "1",
+        "Year": 23,
+        "Month": 6,
+        "Day": 17,
+        "Title": "平成23年_第２回定例会(第７号)",
+        "Speaker": "",
+        "Utterance": ""
+    },
+```
 |:----------------|:----------------|
 | ID | 識別子 (市町村コード_年月日_行数) |
 | Line | 行番号 |
@@ -170,9 +189,7 @@ The corpus has JSON format data of the Tokyo metropolitan assembly for 4 years, 
 | Speaker | 発言者名 |
 | Utterance | 発言 |
 
-
-We will provide the subset data in the JSON format.
-
+* [sample-summarization.json](https://poliinfo.github.io/sample-summarization.json)
 ```json
 [
     {
@@ -187,10 +204,46 @@ We will provide the subset data in the JSON format.
 ]
 ```
 
-* [sample-Pref13_tokyo.json](https://poliinfo.github.io/sample-Pref13_tokyo.json)
-* [sample-classification.json](https://poliinfo.github.io/sample-classification.json)
+
 * [sample-segmentation.json](https://poliinfo.github.io/sample-segmentation.json)
-* [sample-summarization.json](https://poliinfo.github.io/sample-summarization.json)
+```
+[
+    {
+        "Prefecture": "東京都",
+        "Date": "23-6-23",
+        "Meeting": "平成23年第2回定例会",
+        "StartingLine": 266,
+        "EndingLine": 283,
+        "MainTopic": "東京の総合防災力を更に高めよ<br>環境に配慮した都市づくりを",
+        "SubTopic": "東日本大震災",
+        "Speaker": "山下太郎",
+        "Summary": "被災地が真に必要とする支援に継続して取り組むべき。知事の見解は。"
+    }
+]
+```
+
+* [sample-classification.json](https://poliinfo.github.io/sample-classification.json)
+```
+    {
+        "ID": "1",
+        "Topic": "築地市場の豊洲移転",
+        "Utterance": "こうした状況を踏まえ、都は、まず、豊洲新市場を今後の卸売市場に必要なＨＡＣＣＰの視点に立った高度な品質衛生管理施設を整備するなど、先進的な生鮮食料品流通を実現できる卸売市場としてまいります。",
+        "Class": 1
+    },
+    {
+        "ID": "2",
+        "Topic": "築地市場の豊洲移転",
+        "Utterance": "また、合意文の第二項では、築地のまちは、銀座に隣接する極めて高いポテンシャルを有しており、また、築地市場を中心として、場外市場など周辺とのかかわりの中で独特の伝統文化を生み出し、にぎわいを創出してきたという特質を持っているとした上で、築地のまちづくりにおいては、これらの特質等をどのように引き継いでいくかという観点も含めて、検討を行っていくとしています。",
+        "Class": 0
+    },
+    {
+        "ID": "5",
+        "Topic": "築地市場の豊洲移転",
+        "Utterance": "都議会民主党は、四年前、築地市場の移転について、豊洲の移転予定地から高濃度の汚染物質が検出されるなど、安全性が確認されておらず、関係者の合意も得られていないことから、強引な移転には反対とする主張をいたしました。",
+        "Class": 2
+    },
+
+```
 
 
 # [](#important-dates) Important Dates
