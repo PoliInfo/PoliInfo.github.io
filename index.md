@@ -176,6 +176,7 @@ We will provide the subset data in the JSON format.
         "Utterance": ""
     },
 ```
+
 |:----------------|:----------------|
 | ID | 識別子 (市町村コード_年月日_行数) |
 | Line | 行番号 |
@@ -188,6 +189,7 @@ We will provide the subset data in the JSON format.
 | Title | 表題 |
 | Speaker | 発言者名 |
 | Utterance | 発言 |
+
 
 * [sample-summarization.json](https://poliinfo.github.io/sample-summarization.json)
 ```json
@@ -206,7 +208,7 @@ We will provide the subset data in the JSON format.
 
 
 * [sample-segmentation.json](https://poliinfo.github.io/sample-segmentation.json)
-```
+```json
 [
     {
         "Prefecture": "東京都",
@@ -223,7 +225,7 @@ We will provide the subset data in the JSON format.
 ```
 
 * [sample-classification.json](https://poliinfo.github.io/sample-classification.json)
-```
+```json
     {
         "ID": "1",
         "Topic": "築地市場の豊洲移転",
