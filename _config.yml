@@ -25,7 +25,7 @@ github_username:  PoliInfo
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-leap-day
-theme: jekyll-theme-prologue
+theme: jekyll-theme-leap-day
 remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-feed
