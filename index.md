@@ -311,6 +311,9 @@ NTCIR-14 QALab-PoliInfoタスクに参加をお考えの方は，まず [NTCIR-1
 ## Slides
 - [Kickoff Meeting (Feb 20, 2018)](/NTCIR-14-QALab-PoliInfoKickoff.pdf)	
 - [1st Round Table Meeting (Apr 19, 2018)](/NTCIR-14-QALab-PoliInfo-1stRoundTableMTG.pdf)
+　[2nd Round Table Meeting (May 31, 2018)](/NTCIR-14-QALab-PoliInfo-2ndRoundTableMTG.pdf)
+
+
 
 ## [](#qa) Q&A
 
