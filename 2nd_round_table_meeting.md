@@ -14,6 +14,9 @@ NTCIR-14 QALab-PoliInfo 第2回説明会を5月31日（木）に開催いたし�
 
 14:30 - 15:00  QALab PoliInfo の説明
 
+　[第二回説明資料　Slide](https://poliinfo.github.io/NTCIR-14-QALab-PoliInfo-2ndRoundTableMTG.pdf)
+
+
 15:00 - 16:30  チュートリアル講演
 
 　題目　「深層学習」<br>
