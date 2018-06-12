@@ -305,7 +305,7 @@ NTCIR-14 QALab-PoliInfoタスクに参加をお考えの方は，まず [NTCIR-1
 
 # [](#contact-us) Contact Us
 
-* [q...@nii.ac.jp](https://www.google.com/recaptcha/mailhide/d?k=01O9zbkTiGrK94vkzok6UTlA==&c=O9PnuKWAEXZJ-9F2iQ1s3NCEpYO4jMMUhYsmRhdCk0c=) 
+* qalab-admin ![nii mail domain](nii-mail-add.gif)<!--[q...@nii.ac.jp](https://www.google.com/recaptcha/mailhide/d?k=01O9zbkTiGrK94vkzok6UTlA==&c=O9PnuKWAEXZJ-9F2iQ1s3NCEpYO4jMMUhYsmRhdCk0c=) -->
 
 # Misc
 ## Slides
