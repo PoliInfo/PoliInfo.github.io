@@ -262,9 +262,12 @@ We will provide the subset data in the JSON format.
 - Apr 19, 2018: 1st round table meeting in NII (room 1901, 1902)  
 - May 31, 2018: 2nd round table meeting in NII (room 1208) ([details](https://poliinfo.github.io/2nd_round_table_meeting))
 - Jun 15, 2018: Dataset Release  
-- Jul 2018: Task Registration Due  
-- Jul 2018: Dry Run  
-- Nov 2018: Formal Run  
+- Jul 30, 2018: Task Registration Due for Dry Run 
+- Aug 6 - 9, 2018: Dry Run (Segmentation & Classification Tasks) 
+- Aug 13 - 16, 2018: Dry Run (Summarization Task) 
+- Nov 19, 2018: Task Registration Due for Formal Run (This is not required for Dry Run participants)
+- Nov 26 - 29, 2018: Formal Run (Segmentation & Classification Tasks) 
+- Dec 3 - 6, 2018: Formal Run (Summarization Task)  
 - Feb 1, 2019: Evaluation Result Release  
 - Feb 1, 2019: Task overview paper release (draft)  
 - Mar 15, 2019:  Submission due of participant papers  
