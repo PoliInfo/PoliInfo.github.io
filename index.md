@@ -5,7 +5,7 @@ layout: default
 ---
 # [](#whats-new)What's New
 
-* [Training data for Dry Run](#howto) was released on June 19, 2018
+* [Training data for Dry Run](http://local-politics.jp/?page_id=1035) was released on June 19, 2018
 * [The 2nd round table meeting](https://poliinfo.github.io/2nd_round_table_meeting) will be held on May 31, 2018
 * Released the website to the public, Dec. 21, 2017
 
