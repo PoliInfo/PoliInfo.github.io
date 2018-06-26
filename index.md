@@ -299,6 +299,9 @@ NTCIR-14 QALab-PoliInfoタスクに参加をお考えの方は，まず [NTCIR-1
 - Yasutomo Kimura, Otaru University of Commerce, Japan and RIKEN, Japan
 - Hideyuki Shibuki, Yokohama National University, Japan
 - Kotaro Sakamoto, Yokohama National University, Japan and National Institute of Informatics, Japan
+- Keiichi Takamaru, Utsunomiya Kyowa University, Japan
+- Yuzu Uchida, Hokkai Gakuen University, Japan
+- Hokuto Ototake, Fukuoka University, Japan
 
 ## Advisers
 - Tatsunori Mori, Yokohama National University, Japan
