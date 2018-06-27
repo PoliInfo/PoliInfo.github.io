@@ -276,6 +276,8 @@ We will provide the subset data in the JSON format.
 - May 1, 2019 Camera-ready participant paper due
 - Jun 2019: NTCIR-14 Conference & EVIA 2019 in NII, Tokyo  
 
+<img src="DryRun2018.png" alt="Dry Run" title="Dry Run" style="width: 600px;"/>
+
 # [](#howto) How to Participate
 
 NTCIR-14 QALab-PoliInfoタスクに参加をお考えの方は，まず [NTCIR-14タスク参加の手引き](http://research.nii.ac.jp/ntcir/ntcir-14/howto-ja.html)からリンクされている，
