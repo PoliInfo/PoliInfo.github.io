@@ -5,7 +5,7 @@ layout: default
 ---
 # [](#whats-new)What's New
 
-* [The 4rd round table meeting](https://poliinfo.github.io/4th_round_table_meeting) will be held on Sept 29, 2018
+* [The 4rd round table meeting](https://poliinfo.github.io/4th_round_table_meeting) will be held on Oct 29, 2018
 * [The 3rd round table meeting](https://poliinfo.github.io/3rd_round_table_meeting) was held on Aug 30, 2018
 * [Training data for Dry Run](http://local-politics.jp/?page_id=1035) was released on June 19, 2018
 * [The 2nd round table meeting](https://poliinfo.github.io/2nd_round_table_meeting) was held on May 31, 2018
