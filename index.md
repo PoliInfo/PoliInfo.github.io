@@ -214,20 +214,24 @@ We will provide the subset data in the JSON format.
 ```
 
 
-* [sample-segmentation.json](https://poliinfo.github.io/sample-segmentation.json)
+* [FormalRun-sample-Segmentation.json](https://poliinfo.github.io/sample-segmentation.json)
 ```json
 [
     {
-        "Prefecture": "東京都",
-        "Date": "23-6-23",
-        "Meeting": "平成23年第2回定例会",
-        "StartingLine": 266,
-        "EndingLine": 283,
-        "MainTopic": "東京の総合防災力を更に高めよ<br>環境に配慮した都市づくりを",
-        "SubTopic": "東日本大震災",
-        "Speaker": "山下太郎",
-        "Summary": "被災地が真に必要とする支援に継続して取り組むべき。知事の見解は。"
-    }
+        ID	"Segmentation-2018-JA-FormalSample-00001"
+        Prefecture	"東京都"
+        Date	"23-6-23"
+        Meeting	"平成23年_第２回定例会"
+        MainTopic	"東京の防災力向上は待ったなし<br>被災地復興には総合的取組を"
+        SubTopic	"都政運営"
+        QuestionSpeaker	"村上英子（自民党）"
+        QuestionSummary	"〔1〕国難のもとにおける東京の役割について所見を。〔2〕「10年後の東京」計画改定の視点は。〔3〕都民への責任果たし得る財政運営を。〔4〕被災地復興支援と首都東京の防災力向上に今後どう取り組むのか、所見を。"
+        AnswerSpeaker	"知事本局長"
+        AnswerSummary	"　〔2〕高度防災機能備えた都市へ取組強化等で安全・安心社会をつくり、節電意識徹底等で環境と経済が両立した都市実現等。"
+        QuestionStartingLine	763
+        QuestionEndingLine	793
+        AnswerStartingLine	1240
+        AnswerEndingLine	1243    }
 ]
 ```
 
