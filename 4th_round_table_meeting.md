@@ -7,7 +7,7 @@ NTCIR-14 QALab-PoliInfo 第４回説明会を10月29日（月）に開催いた�
 
 --------------------------------------------------
 
-NTCIR-14 QALab-PoliInfo 4th Round Table Meeting
+<strong><span style="font-size:xx-large;"> NTCIR-14 QALab-PoliInfo 第4回説明会 </span></strong>
 
 　日時：10月29日（月）　15:00-18:00
 　場所：国立情報学研究所 (room 2004･2005)
@@ -15,10 +15,10 @@ NTCIR-14 QALab-PoliInfo 4th Round Table Meeting
 　参加資格：どなたでも　（今から参加したいという方、大歓迎です）
 　参加申込：xxx
 　参加申込締切：10月22日(月)
-  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 ウェブサイト:　https://poliinfo.github.io/
-　お問い合わせは　qalab-admin@nii.ac.jp　まで
+お問い合わせは　qalab-admin@nii.ac.jp　まで
 
 --------------------------------------------------
 
