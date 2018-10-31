@@ -1,3 +1,7 @@
+
+* [Top page](https://poliinfo.github.io)
+
+
 NTCIR-14 QALab-PoliInfo 第2回説明会を5月31日（木）に開催いたします。
 
 今回は、ClassificationやSummarizationといった本タスクと関連深い「機械学習」と「自動要約」のチュートリアル講演を企画しております。
