@@ -1,33 +1,33 @@
 [Top page](https://poliinfo.github.io)
 
 
-11月26日より行われるFormal Runに向けて、
-NTCIR-14 QALab-PoliInfo 第４回説明会を10月29日（月）に開催いたしました。
+11月26日より行われるFormal Runに向けて、  
+NTCIR-14 QALab-PoliInfo 第４回説明会を10月29日（月）に開催いたしました。  
 
 
 --------------------------------------------------
 
 <strong><span style="font-size:xx-large;"> NTCIR-14 QALab-PoliInfo 第4回説明会 </span></strong>
 
-　日時：10月29日（月）　15:00-18:00
-　場所：国立情報学研究所 (room 2004･2005)
+　日時：10月29日（月）　15:00-18:00  
+　場所：国立情報学研究所 (room 1901･1902)  
 
-ウェブサイト:　https://poliinfo.github.io/ 
-お問い合わせは　qalab-admin@nii.ac.jp　まで 
+ウェブサイト:　https://poliinfo.github.io/   
+お問い合わせは　qalab-admin@nii.ac.jp　まで   
 
 --------------------------------------------------
 
 
-NTCIR-14 QALab-PoliInfoでは、地方議会会議録を対象として、Segmentation、Summarization、Classificationの３タスクを行います。
+NTCIR-14 QALab-PoliInfoでは、地方議会会議録を対象として、Segmentation、Summarization、Classificationの３タスクを行います。  
 
-第４回説明会では、Dry Run（予備Run）からの変更点や、Formal Run用のトレーニングデータなどを説明する予定です。
+第４回説明会では、Dry Run（予備Run）からの変更点や、Formal Run用のトレーニングデータなどを説明しました。
 Formal Runのスケジュールは以下の通りで、今からの参加者を歓迎しております。
 
 
-Formal Run 参加登録〆切: 11月19日（月）　※Dry Run参加者は登録不要
-Formal Run: 11月26日（月）～
+Formal Run 参加登録〆切: 11月19日（月）　※Dry Run参加者は登録不要  
+Formal Run: 11月26日（月）～  
 
-皆様お誘い合わせの上、奮ってご参加下さいますようお願い申し上げます。
+皆様お誘い合わせの上、奮ってご参加下さいますようお願い申し上げます。  
 
 Organizers:
 - 神門典子（国立情報学研究所, 総合研究大学院大学）
