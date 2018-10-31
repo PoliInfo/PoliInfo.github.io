@@ -13,6 +13,9 @@ layout: default
 
 See [update history](https://github.com/PoliInfo/PoliInfo.github.io/commits/master)
 
+<img src="3rd-01.JPG" style="width: 640px;"/>
+<img src="3rd-07.JPG" style="width: 640px;"/>
+
 # [](#overview)Overview
 
 The goal of the QA Lab-PoliInfo (Question Answering Lab for Political Information) task at NTCIR 14 is aimed at complex real-world question answering (QA) technologies, to show summaries on the opinions of assemblymen, and the reasons and conditions for such opinions, from Japanese regional assembly minutes. 
