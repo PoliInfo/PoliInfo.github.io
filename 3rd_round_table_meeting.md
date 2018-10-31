@@ -3,6 +3,7 @@
 NTCIR-14 QALab-PoliInfo 第3回説明会を8月30日（木）に開催いたしました。
 
 --------------------------------------------------------------
+
 <strong><span style="font-size:xx-large;"> NTCIR-14 QALab-PoliInfo 第3回説明会 </span></strong>
 
 日時：8月30日（木）　15:30-18:00 <br>
