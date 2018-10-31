@@ -1,0 +1,8 @@
+[
+{"ID":"Classification-2018-JA-FormalSample-00001","Topic":"築地市場を豊洲に移転するべきである","Utterance":"豊洲は、新市場移転により千客万来施設ができるなど、今後、観光客の集客が大いに期待できるエリアであります。","Relevance":1,"Fact-checkability":1,"Stance":1,"Class":1},
+{"ID":"Classification-2018-JA-FormalSample-00002","Topic":"築地市場を豊洲に移転するべきである","Utterance":"豊洲の新市場予定地では108箇所で液状化が発生し、築地市場の移転先としてふさわしくないことが重ねて証明されました。","Relevance":1,"Fact-checkability":1,"Stance":2,"Class":2},
+{"ID":"Classification-2018-JA-FormalSample-00003","Topic":"築地市場を豊洲に移転するべきである","Utterance":"新銀行東京や築地市場の移転問題は非の立場です。","Relevance":1,"Fact-checkability":0,"Stance":2,"Class":0},
+{"ID":"Classification-2018-JA-FormalSample-00004","Topic":"築地市場を豊洲に移転するべきである","Utterance":"このような中、東京都はこの八月三十日に、豊洲の土壌汚染対策工事として、ゼネコン系の三つのＪＶと合計約五百四十二億円の契約を交わしています。","Relevance":0,"Fact-checkability":1,"Stance":0,"Class":0},
+{"ID":"Classification-2018-JA-FormalSample-00005","Topic":"築地市場を豊洲に移転するべきである","Utterance":"豊洲新市場への移転を希望する事業者の不安を払拭すべく、移転資金や運転資金、移転後の新たな事業展開に必要な資金の手当てなど、経営支援策を講じてまいります。","Relevance":1,"Fact-checkability":0,"Stance":0,"Class":0},
+{"ID":"Classification-2018-JA-FormalSample-00006","Topic":"築地市場を豊洲に移転するべきである","Utterance":"お正月五日の築地の初競りで史上最高となる一億五千五百四十万で落札された大間マグロはブランド化成功の代表例であります","Relevance":0,"Fact-checkability":0,"Stance":0,"Class":0}
+]
