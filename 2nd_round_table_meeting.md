@@ -1,5 +1,5 @@
 
-* [Top page](https://poliinfo.github.io)
+[Top page](https://poliinfo.github.io)
 
 
 NTCIR-14 QALab-PoliInfo 第2回説明会を5月31日（木）に開催いたします。
