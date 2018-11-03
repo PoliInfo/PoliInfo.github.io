@@ -304,7 +304,7 @@ We will provide the subset data in the JSON format.
 - May 1, 2019 Camera-ready participant paper due
 - Jun 2019: NTCIR-14 Conference & EVIA 2019 in NII, Tokyo  
 
-<img src="DryRun2018.png" alt="Dry Run" title="Dry Run" style="width: 600px;"/>
+<img src="FormalRun2018.png" alt="Dry Run" title="Formal Run" style="width: 600px;"/>
 
 # [](#howto) How to Participate
 
