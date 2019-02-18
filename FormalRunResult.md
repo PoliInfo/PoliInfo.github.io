@@ -1,6 +1,6 @@
 [Top page](https://poliinfo.github.io)
 
-NTCIR-14 QALab-PoliInfo Formal Run の結果を公開します．
+NTCIR-14 QALab-PoliInfo Formal Run の結果を公開しました．
 
 
 
