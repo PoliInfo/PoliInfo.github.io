@@ -8,7 +8,7 @@ layout: default
 
 
 
-* [Result of Formal Run](https://poliinfo.github.io/FormalRunResult) was released on Feb 18, 2019
+* [The result of Formal Run](https://poliinfo.github.io/FormalRunResult) was released on Feb 18, 2019
 * [The 4th round table meeting](https://poliinfo.github.io/4th_round_table_meeting) was be held on Oct 29, 2018
     * [4th Round Table Meeting Slides(PDF,6MB)](/NTCIR-14-QALab-PoliInfo-4thRoundTableMTG.pdf)  
 * [The 3rd round table meeting](https://poliinfo.github.io/3rd_round_table_meeting) was held on Aug 30, 2018
