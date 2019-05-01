@@ -30,7 +30,9 @@ NTCIR-14 QALab-PoliInfoでは、地方議会会議録を対象として、Segmen
 また、次回のPoliInfo-2（予定）で行うタスクについても話し合いたいと思っています。
 
 NTCIR14 QALab-PoliInfo Formal Run dataset データセットをGitHubで公開しています。
-https://github.com/kmr-y/NTCIR14-QALab-PoliInfo-FormalRunDataset
+
+- [https://github.com/kmr-y/NTCIR14-QALab-PoliInfo-FormalRunDataset](https://github.com/kmr-y/NTCIR14-QALab-PoliInfo-FormalRunDataset)
+
 今回のタスクに不参加でも、データセットを見て、今後について一緒に考えたいという方がいれば、ぜひ、ご参加下さいますようお願い申し上げます。
 
 
