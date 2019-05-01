@@ -11,7 +11,11 @@ NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたし�
 
 <img src="5th_01.JPG" style="width: 640px;"/>
 
-<img src="5th_02.JPG" style="width: 640px;"/>
+
+<strong><span style="font-size:xx-large;"> NTCIR-14 QALab-PoliInfo 第5回説明会 </span></strong>
+
+　日時：4月23日（火）　15:00-18:00
+　場所：国立情報学研究所 (room 1208)
 
 1. Formal Run の結果について
 1. QALab-PoliInfoのデータ分析
@@ -23,19 +27,14 @@ NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたし�
 1. 意見交換
 
 
+<img src="5th_02.JPG" style="width: 640px;"/>
+
 <img src="5th_04.JPG" style="width: 640px;"/>
 
 <img src="5th_05.JPG" style="width: 640px;"/>
 
---------------------------------------------------
+<img src="5th_06.JPG" style="width: 640px;"/>
 
-<strong><span style="font-size:xx-large;"> NTCIR-14 QALab-PoliInfo 第5回説明会 </span></strong>
-
-　日時：4月23日（火）　15:00-18:00
-　場所：国立情報学研究所 (room 1208)
-
-ウェブサイト:　https://poliinfo.github.io/   
-お問い合わせは　qalab-admin@nii.ac.jp　まで   
 
 --------------------------------------------------
 
