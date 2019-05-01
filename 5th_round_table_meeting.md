@@ -11,6 +11,22 @@ NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたし�
 
 <img src="5th_01.JPG" style="width: 640px;"/>
 
+<img src="5th_02.JPG" style="width: 640px;"/>
+
+1. Formal Run の結果について
+1. QALab-PoliInfoのデータ分析
+    - タイトル「注釈者のクラスタリングに基づく議会発言の事実検証可能性の推定」
+    - 発表者　白土大樹、秋葉友良（豊橋技術科学大学）
+    <img src="5th_03.JPG" style="width: 640px;"/>
+1. The 14th NTCIR Conference について
+1. NTCIR15 QALab-PoliInfoに向けて
+1. 意見交換
+
+
+<img src="5th_04.JPG" style="width: 640px;"/>
+
+<img src="5th_05.JPG" style="width: 640px;"/>
+
 --------------------------------------------------
 
 <strong><span style="font-size:xx-large;"> NTCIR-14 QALab-PoliInfo 第5回説明会 </span></strong>
