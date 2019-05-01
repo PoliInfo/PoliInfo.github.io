@@ -9,7 +9,7 @@ NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたし�
 
 ## Photos
 
-<img src="5th-01.jpg" style="width: 640px;"/>
+<img src="5th-01.JPG" style="width: 640px;"/>
 
 --------------------------------------------------
 
