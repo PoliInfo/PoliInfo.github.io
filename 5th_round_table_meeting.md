@@ -5,7 +5,7 @@
 NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたしました。  
 
 ## Slides
-- [5th Round Table Meeting Slides (PDF,6MB)](/NTCIR-14-QALab-PoliInfo-5thRoundTableMTG.pdf)
+- [5th Round Table Meeting Slides (PDF,3MB)](/NTCIR-14-QALab-PoliInfo-5thRoundTableMTG.pdf)
 
 ## Photos
 
