@@ -1,8 +1,7 @@
 [Top page](https://poliinfo.github.io)
 
 
-## 第5回説明会
-<strong><span style="font-size:xx-large;"> NTCIR-14 QALab-PoliInfo 第5回説明会 </span></strong>
+## NTCIR-14 QALab-PoliInfo 第5回説明会 
 
 今後のQA Lab-PoliInfoについて考えるために、  
 NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたしました。  
