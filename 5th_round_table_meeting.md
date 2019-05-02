@@ -4,11 +4,6 @@
 今後のQA Lab-PoliInfoについて考えるために、  
 NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたしました。  
 
-## Slides
-- [5th Round Table Meeting Slides (PDF,3MB)](/NTCIR-14-QALab-PoliInfo-5thRoundTableMTG.pdf)
-
-## Photos
-
 <img src="5th_01.JPG" style="width: 640px;"/>
 
 
@@ -16,6 +11,9 @@ NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたし�
 
 　日時：4月23日（火）　15:00-18:00
 　場所：国立情報学研究所 (room 1208)
+
+## Slides
+- [5th Round Table Meeting Slides (PDF,3MB)](/NTCIR-14-QALab-PoliInfo-5thRoundTableMTG.pdf)
 
 1. Formal Run の結果について
 1. QALab-PoliInfoのデータ分析
@@ -38,6 +36,7 @@ NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたし�
 
 --------------------------------------------------
 
+## 告知メールの内容
 
 NTCIR-14 QALab-PoliInfoでは、地方議会会議録を対象として、Segmentation、Summarization、Classificationの３タスクを行いました。
 
