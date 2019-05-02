@@ -9,12 +9,13 @@ NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたし�
 <img src="5th_01.JPG" style="width: 640px;"/>
 
 　日時：4月23日（火）　15:00-18:00
+ 
 　場所：国立情報学研究所 (room 1208)
 
 ## Slides
 - [5th Round Table Meeting Slides (PDF,3MB)](/NTCIR-14-QALab-PoliInfo-5thRoundTableMTG.pdf)
 
-## 説明会の概要
+## Outline
 1. Formal Run の結果について
 1. QALab-PoliInfoのデータ分析
     - タイトル「注釈者のクラスタリングに基づく議会発言の事実検証可能性の推定」
