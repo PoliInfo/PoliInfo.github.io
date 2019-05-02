@@ -4,7 +4,7 @@
 ## NTCIR-14 QALab-PoliInfo 第5回説明会 
 
 今後のQA Lab-PoliInfoについて考えるために、  
-NTCIR-14 QALab-PoliInfo 第5回説明会を4月23日（火）に開催いたしました。  
+4月23日（火）にNTCIR-14 QALab-PoliInfo 第5回説明会を開催いたしました。  
 
 <img src="5th_01.JPG" style="width: 640px;"/>
 
